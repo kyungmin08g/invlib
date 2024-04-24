@@ -27,3 +27,9 @@ dependencies {
     implementation "io.github.invlib.kyungmin08g:invlib-api:<version>"
 }
 ```
+#### 개발 환경
+ - `Java 17`
+ - `JDK 17`
+ - **IDE** : Intellij IDEA CE
+
+
