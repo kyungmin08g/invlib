@@ -35,4 +35,4 @@ dependencies {
  - **Language** : Java
  - **Minecraft Version** : 1.20.1
 
-### [자세한건..](https://github.com/kyungmin08g/invlib/wiki)
+### [사용방법..](https://github.com/kyungmin08g/invlib/wiki)
