@@ -14,6 +14,6 @@ repositories {
 
 ```java
 dependencies {
-    implementation("io.github.invlib.kyungmin08g:invlib-api:<version>")
+    implementation "io.github.invlib.kyungmin08g:invlib-api:<version>"
 }
 ```
