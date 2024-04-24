@@ -34,10 +34,7 @@ dependencies {
  - `JDK 17`
  - **IDE** : Intellij IDEA CE
  - **Language** : Java
- - **Build Tool** : Gradle
- - **Minecraft Version** : 1.20.4
+ - **Minecraft Version** : 1.20.1
 
 ---
-
-### 주요 기능
-추가 예정..
+[자세한건..](https://github.com/kyungmin08g/invlib/wiki)
