@@ -3,12 +3,12 @@
 
 ```java
 repositories {
-    mavenCentral()
+    mavenLocal()
 }
 ```
 
 ```java
 dependencies {
-    implementation("io.github.monun:invfx-api:<version>")
+    implementation("io.github.invlib.kyungmin08g:invlib-api:<version>")
 }
 ```
