@@ -34,5 +34,7 @@ dependencies {
  - `JDK 17`
  - **IDE** : Intellij IDEA CE
  - **Language** : Java
+ - **Build Tool** : Gradle
+ - **Minecraft Version** : 1.20.4
 
 
