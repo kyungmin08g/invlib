@@ -1,7 +1,7 @@
 # InvLib
 
 [![java](https://img.shields.io/badge/java-17-ED8B00.svg?logo=java)](https://www.azul.com/)
-[![Gradle](https://img.shields.io/badge/gradle-8.2.1-02303A.svg?logo=gradle)](https://gradle.org)
+[![Gradle](https://img.shields.io/badge/gradle-8.5-02303A.svg?logo=gradle)](https://gradle.org)
 
 ### Inventory GUI for Java users
 
