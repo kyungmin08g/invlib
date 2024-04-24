@@ -27,7 +27,6 @@ dependencies {
     implementation "io.github.invlib.kyungmin08g:invlib-api:<version>"
 }
 ```
----
 
 ### 개발 환경
  - `Java 17`
@@ -36,5 +35,4 @@ dependencies {
  - **Language** : Java
  - **Minecraft Version** : 1.20.1
 
----
 ### [자세한건..](https://github.com/kyungmin08g/invlib/wiki)
