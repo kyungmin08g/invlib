@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.invlib.kyungmin08g",
+    "module": "invlib-api",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "invlib-api-1.0.0.jar",
+          "url": "invlib-api-1.0.0.jar",
+          "size": 18698,
+          "sha512": "cfd5549aaaf48bb060a314655a28c956ff2f0ba045a35a14c950d88fc9a1dbef9718c7cc2f15e3c06cce0100417db9abdaab067dbd4b6c499a30bf9537d03679",
+          "sha256": "c2dbc8f6f1e224aa522f2c71281ae2e7cf80bb431d03f391f9c7bc244a647fa6",
+          "sha1": "05ef5b2d8279d04471d314a3b1923ec363990991",
+          "md5": "8ae4135a6c78b722e6c7065bdb82e735"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "invlib-api-1.0.0.jar",
+          "url": "invlib-api-1.0.0.jar",
+          "size": 18698,
+          "sha512": "cfd5549aaaf48bb060a314655a28c956ff2f0ba045a35a14c950d88fc9a1dbef9718c7cc2f15e3c06cce0100417db9abdaab067dbd4b6c499a30bf9537d03679",
+          "sha256": "c2dbc8f6f1e224aa522f2c71281ae2e7cf80bb431d03f391f9c7bc244a647fa6",
+          "sha1": "05ef5b2d8279d04471d314a3b1923ec363990991",
+          "md5": "8ae4135a6c78b722e6c7065bdb82e735"
+        }
+      ]
+    }
+  ]
+}
