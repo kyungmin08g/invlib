@@ -2,6 +2,8 @@
 
 ### Inventory GUI for Java users
 
+* #### 적용방법
+
 ---
 
 #### Gradle
