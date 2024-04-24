@@ -2,3 +2,6 @@ name: InvLib
 version: '1.0.0'
 main: io.github.invlib.plugin.InvLibPlugin
 api-version: '1.20'
+commands:
+  open:
+    description: Shows the inventory created by the player.
