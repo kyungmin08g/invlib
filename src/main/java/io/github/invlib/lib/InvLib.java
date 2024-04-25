@@ -26,10 +26,10 @@ public class InvLib implements InventoryHolder {
     private static int number;
 
     // 새로운 인벤토리를 만들 때 사용되는 메소드
-    public static InvLib frame(int lines, Component title, InvProperty init) {
+    public static InvLib frame(int lines, Component title) {
         inv = Bukkit.createInventory(null, lines * 9, title);
         number = lines;
-        init.initInventory();
+//        init.initInventory();
 
         return null;
     }

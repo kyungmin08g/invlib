@@ -27,11 +27,11 @@
         {
           "name": "invlib-api-1.0.0.jar",
           "url": "invlib-api-1.0.0.jar",
-          "size": 18698,
-          "sha512": "2df95ac9430a8a60a7ebf98de9bb5b838093a8a6376ef8b65f0a1913c9629fe4d3e06b76909ed7b29d1af0ac30636a7237489aa0bcd41bb68e50e7d08463c4b1",
-          "sha256": "7251ff0fd1391e064fa2032e315dd185423684d3a5fad9849f078fb7718c9136",
-          "sha1": "94ab157c54cfd90fcee3508a6629ea0b6c29a642",
-          "md5": "b9e61a597325618c6e21513e4df32f99"
+          "size": 18545,
+          "sha512": "ba79bfade266b2f8ae8c71708aa4eb21ba268b8567f913a4af8d1f2edaf0f5fbb91d9f16e88e553d54846ad1349d1000d4b401a661219f688ad1f8ff9213d601",
+          "sha256": "81d89385c30aad70f4684a26cb819652bdc4f4fef762971744186a5c477e0239",
+          "sha1": "5d1fc56322c49a7d85b269ca2d5907ff3b547508",
+          "md5": "6875db91cea567899d5021ae6d17dd7f"
         }
       ]
     },
@@ -48,11 +48,11 @@
         {
           "name": "invlib-api-1.0.0.jar",
           "url": "invlib-api-1.0.0.jar",
-          "size": 18698,
-          "sha512": "2df95ac9430a8a60a7ebf98de9bb5b838093a8a6376ef8b65f0a1913c9629fe4d3e06b76909ed7b29d1af0ac30636a7237489aa0bcd41bb68e50e7d08463c4b1",
-          "sha256": "7251ff0fd1391e064fa2032e315dd185423684d3a5fad9849f078fb7718c9136",
-          "sha1": "94ab157c54cfd90fcee3508a6629ea0b6c29a642",
-          "md5": "b9e61a597325618c6e21513e4df32f99"
+          "size": 18545,
+          "sha512": "ba79bfade266b2f8ae8c71708aa4eb21ba268b8567f913a4af8d1f2edaf0f5fbb91d9f16e88e553d54846ad1349d1000d4b401a661219f688ad1f8ff9213d601",
+          "sha256": "81d89385c30aad70f4684a26cb819652bdc4f4fef762971744186a5c477e0239",
+          "sha1": "5d1fc56322c49a7d85b269ca2d5907ff3b547508",
+          "md5": "6875db91cea567899d5021ae6d17dd7f"
         }
       ]
     }

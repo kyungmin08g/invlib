@@ -30,7 +30,7 @@ public final class InvLibPlugin extends JavaPlugin implements CommandExecutor {
     @Override
     public boolean onCommand(@NotNull CommandSender sender, @NotNull Command command, @NotNull String label, @NotNull String[] args) {
         if (sender instanceof Player player && command.getName().equals("open")) {
-            InvLib invLib = InvLib.frame(6, Component.text("인벤토리"), () -> {
+            InvLib invLib = InvLib.frame(6, Component.text("인벤토리"));
                 onOpen(onOpenEvent -> player.sendMessage("onOpenEvent 호출"));
 
                 list(item3, null);
@@ -43,7 +43,6 @@ public final class InvLibPlugin extends JavaPlugin implements CommandExecutor {
 
                 onClose(onCloseEvent -> player.sendMessage("onCloseEvent 호출"));
                 onClickBottom(onClickEvent -> player.sendMessage("onClickBottomEvent 호출"));
-            });
             InvLib.openFrame(player, invLib);
 
             return true;
