@@ -6,9 +6,13 @@ plugins {
 group = 'io.github.invlib'
 version = '1.0.0'
 
+configurations.implementation.canBeResolved = true
+configurations.compileOnly.canBeResolved = true
+
 allprojects {
     repositories {
         mavenCentral()
+        mavenLocal()
         maven {
             name = "papermc-repo"
             url = "https://repo.papermc.io/repository/maven-public/"
